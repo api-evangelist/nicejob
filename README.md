@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-NiceJob is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://nicejob.com/
+NiceJob provides an AI‑powered reputation marketing platform for service‑based businesses. Its software helps businesses collect and manage customer reviews, automate responses, and improve online visibility across search engines and AI assistants. The platform includes tools for review solicitation, widgets for website display, analytics, and integrations with common business software.
+
+**Areas:** Reputation Marketing · AI · SaaS · Service Business · Customer Reviews
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nicejob.com/)
+- [Documentation](https://nicejob.com/help-center)
+- [Pricing](https://nicejob.com/pricing)
+- [Support](https://help.nicejob.com/en/)
+- [Blog](https://nicejob.com/blog)
+- [Terms of service](https://nicejob.com/terms)
+- [Privacy policy](https://nicejob.com/privacy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/nicejob/](https://apis.io/providers/nicejob/).
